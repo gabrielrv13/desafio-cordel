@@ -1,6 +1,6 @@
 # Projeto Cordel
 
-Este é o projeto de conclusão do Desafio do Módulo 3 do curso de HTML e CSS do Curso em Vídeo, ministrado pelo professor Guanabara. O projeto utiliza o efeito da paralaxe e é responsivo, com o pensamento mobile first.
+Este é o projeto de conclusão do Desafio 12 do Módulo 3 do curso de HTML e CSS do Curso em Vídeo, ministrado pelo professor Guanabara. O projeto utiliza o efeito da paralaxe e é responsivo, com o pensamento mobile first.
 
 ## Como Usar
 
